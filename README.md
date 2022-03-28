@@ -1,6 +1,7 @@
 ### Hey 👋 I'm Jerome226 and I am currently learning Java.
 
-I don't really have any projects going currently, but you can join my discord [here](https://discord.gg/buZSuyxype) for eventual projects.
+I am currently working on the [Telomerase modpack](https://github.com/facetorched/telomerase), a pack based on TerraFirmaCraft+.
+Most of my personal projects are on hold but you can join my discord [here](https://discord.gg/buZSuyxype) to get informed when I'm back at it.
 
 You can also find/follow me on my socials [here](https://solo.to/jerome226).
 
