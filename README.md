@@ -1,8 +1,6 @@
 ### Hey 👋 I'm Jerome226 and I am currently learning Java.
 
-I am currently working on the [Telomerase modpack](https://github.com/facetorched/telomerase), a pack based on [TerraFirmaCraft+](https://www.curseforge.com/minecraft/mc-mods/terrafirmacraftplus).
-
-Most of my personal projects are on hold but you can join my discord [here](https://discord.gg/buZSuyxype) to get informed when I'm back at it.
+I am currently working on the [TFC Voltworks](https://github.com/PufferTeam/TFCVoltworks), a pack based on [TerraFirmaCraft](https://www.curseforge.com/minecraft/mc-mods/terrafirmacraft).
 
 You can also find/follow me on my socials [here](https://solo.to/jerome226).
 
